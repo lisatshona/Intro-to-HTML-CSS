@@ -11,7 +11,6 @@ Javascript is a lightweight and compiled interpreted programming language used t
 
 **UNIT 2- HTML FORMATING**
 
-**HTML SYNTAX**
 **HTML has 6 headlines** from h1-h6. H1 is the largest that catchs the attention of the reader, then h6 is the least important and does grab much attention. To emphasize something we use Italics.
 To convey a warning or highlight we use Bold words.
 **HTM Lists** are important elements, we have 3 types namely ordered,unordered and definition list. Unordered lists is just a list that the order doesnt matter, each element is enclosed in then the list is wrapped to show its unorderd list. Ordered list is whereby the ordered of the list matters. Definition list is used to define terms as the word says. We use a specific tags for definition of lists. 
