@@ -32,5 +32,8 @@ HTML Attributes always come in name/value. Certain attributes are assigned for s
 **HTML Extra-spaces** can be very tricky but there are various ways to handle it. You can use the non-breaking space character instead of the regular space character. The non-breaking prevents browser from collapsing multiple spaces into one. Using CSS to set the white-space property to pre or pre-wrap which will prevent the browser from collapsing multiple spaces. Pre value displays text as it is in HTML source code, including multiple space. Pre-wrap value will wrap text as word boundaries, but will preserve multiple space.
 Adding comments to the code makes it easier for a reader to understand the purpose of a specific line and prevent confusing if there an error.
 
+**Navigation and Linking**
+The <nav> tag is used to define a set of navigation links, but it is only intended for major blocks of navigation links. Not all navigation links should be inside the nav element. Links are a connection from one web source to another. It has an anchor and a direction, those are the two ends it has. The external links direct you to a source. An internal links targets a source on the same website. URL, HTTP, HTTPS must be used for communication on the web and it is neccessary for linking. 
+
 
 
