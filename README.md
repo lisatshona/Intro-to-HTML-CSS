@@ -2,11 +2,8 @@
 
 **Week 1**
 
-HTML is a markup language used to create web pages. Hypertext defines the links between the web pages. HTML is core to front-end development work. It uses tags to structures the Web pages. Tag is used to indicate the title and the body. It has its elements, these elements can be nested within other the elements. The elememnts can also have attributes. HTML is used for developing fundamentals about web programming.
-Each opened tag should be closed at the end.
-CSS is a sheet style language used to style the content of a web page. It can be used to change color, font and layout of an HTML document. I can say it beautifies the web and make it unique. 
-CSS property is used to assign the HTML elements behaviour. CSS selectors are assigned to select HTML elements according to their element names. CSS functions are used to set various CSS property. 
-Javascript is a lightweight and compiled interpreted programming language used to make web pages interact. It can be used as Client-side as well as Server-side development.
+HTML is a markup language used to create web pages. Hypertext defines the links between the web pages. HTML is core to front-end development work. HTML can be created using any text editor. It uses tags to structures the Web pages. Tag is used to indicate the title and the body. It has its elements, these elements can be nested within other the elements. The elememnts can also have attributes. HTML is used for developing fundamentals about web programming.
+Each opened tag should be closed at the end. The language uses tags to define manipulation that has been done on the text.
 
 
 **HTML FORMATTING**
