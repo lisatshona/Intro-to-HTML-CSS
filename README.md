@@ -9,7 +9,7 @@ CSS property is used to assign the HTML elements behaviour. CSS selectors are as
 Javascript is a lightweight and compiled interpreted programming language used to make web pages interact. It can be used as Client-side as well as Server-side development.
 
 
-**UNIT 2- HTML FORMATING**
+**UNIT 2- HTML FORMATTING**
 
 **HTML has 6 headlines** from h1-h6. H1 is the largest that catchs the attention of the reader, then h6 is the least important and does grab much attention. To emphasize something we use Italics.
 To convey a warning or highlight we use Bold words.
@@ -27,13 +27,14 @@ Superscripts is a text that is raised above the baseline more like an exponent. 
 **HTML Capabilities and Attributes**
 They allow you to customize the appearance and functionality of your web.You can use tags to format text, create links, add images, embed videos, create tables, and more.
 HTML Attributes always come in name/value. Certain attributes are assigned for specific elements. ID name ensures that there is ony one element with that ID so its easy to use it and link it to Javascript. HTML has so many attributes that can be used to modify the web pages.
-**ARIA Roles** are used to provide information about purpose and state of an element. This is important to users using screen readers or other assistive technology. The commonly used aria roles are buttons, link, menue, tree, lists nd checkbox. Each role has its own set  of attributes that can be used to further define the element's purpose and state.
+**ARIA Roles** are used to provide information about purpose and state of an element. This is important to users using screen readers or other assistive technology. The commonly used aria roles are buttons, link, menu, tree, lists nd checkbox. Each role has its own set  of attributes that can be used to further define the element's purpose and state.
 **HTML Extra-spaces** can be very tricky but there are various ways to handle it. You can use the non-breaking space character instead of the regular space character. The non-breaking prevents browser from collapsing multiple spaces into one. Using CSS to set the white-space property to pre or pre-wrap which will prevent the browser from collapsing multiple spaces. Pre value displays text as it is in HTML source code, including multiple space. Pre-wrap value will wrap text as word boundaries, but will preserve multiple space.
 Adding comments to the code makes it easier for a reader to understand the purpose of a specific line and prevent confusing if there an error.
 
 **Navigation and Linking**
 
 The nav tag is used to define a set of navigation links, but it is only intended for major blocks of navigation links. Not all navigation links should be inside the nav element. Links are a connection from one web source to another. It has an anchor and a direction, those are the two ends it has. The external links direct you to a source. An internal links targets a source on the same website. URL, HTTP, HTTPS must be used for communication on the web and it is neccessary for linking. 
+URL is the address of a website to access the website content. They are either absolute or relative. Relative Url focus on the current's file location wheres absolute stsrt from the root of the website. CSS is used to apply the visual appearance to the menu.
 
 
 
