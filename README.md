@@ -8,7 +8,7 @@ Each opened tag should be closed at the end. The language uses tags to define ma
 
 **HTML FORMATTING**
 
-**HTML has 6 headlines** from h1-h6. H1 is the largest that catchs the attention of the reader, then h6 is the least important and does grab much attention. To emphasize something we use Italics.
+**HTML has 6 headlines** from h1-h6. H1 is the largest that attracts the attention of the reader, then h6 is the least important and doesn't grab much attention. To emphasize something we use Italics.
 To convey a warning or highlight we use Bold words.
 **HTM Lists** are important elements, we have 3 types namely ordered,unordered and definition list. Unordered lists is just a list that the order doesnt matter, each element is enclosed in then the list is wrapped to show its unorderd list. Ordered list is whereby the ordered of the list matters. Definition list is used to define terms as the word says. We use a specific tags for definition of lists. 
 **HTML Quotes** are used to format a text as a quote, block quote is used to format large chuncks of text as quote and are usuallly displayed with a different background. Inline quotes format small texts as quote and are displayed with quotation marks. 
@@ -23,7 +23,7 @@ Superscripts is a text that is raised above the baseline more like an exponent. 
 
 They allow you to customize the appearance and functionality of your web.You can use tags to format text, create links, add images, embed videos, create tables, and more.
 HTML Attributes always come in name/value. Certain attributes are assigned for specific elements. ID name ensures that there is ony one element with that ID so its easy to use it and link it to Javascript. HTML has so many attributes that can be used to modify the web pages.
-**ARIA Roles** are used to provide information about purpose and state of an element. This is important to users using screen readers or other assistive technology. The commonly used aria roles are buttons, link, menu, tree, lists nd checkbox. Each role has its own set  of attributes that can be used to further define the element's purpose and state.
+**ARIA Roles** are used to provide information about purpose and state of an element. This is important to users using screen readers or other assistive technology. The commonly used aria roles are buttons, link, menu, tree, lists nd checkbox. Each role has it's own set  of attributes that can be used to further define the element's purpose and state.
 **HTML Extra-spaces** can be very tricky but there are various ways to handle it. You can use the non-breaking space character instead of the regular space character. The non-breaking prevents browser from collapsing multiple spaces into one. Using CSS to set the white-space property to pre or pre-wrap which will prevent the browser from collapsing multiple spaces. Pre value displays text as it is in HTML source code, including multiple space. Pre-wrap value will wrap text as word boundaries, but will preserve multiple space.
 Adding comments to the code makes it easier for a reader to understand the purpose of a specific line and prevent confusing if there an error.
 
