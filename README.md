@@ -20,6 +20,7 @@ pre tag is used to define the preformatted.
 Superscripts is a text that is raised above the baseline more like an exponent. The tag used to create subscripts is the one lowered beyond the baseline.
 
 **HTML Capabilities and Attributes**
+
 They allow you to customize the appearance and functionality of your web.You can use tags to format text, create links, add images, embed videos, create tables, and more.
 HTML Attributes always come in name/value. Certain attributes are assigned for specific elements. ID name ensures that there is ony one element with that ID so its easy to use it and link it to Javascript. HTML has so many attributes that can be used to modify the web pages.
 **ARIA Roles** are used to provide information about purpose and state of an element. This is important to users using screen readers or other assistive technology. The commonly used aria roles are buttons, link, menu, tree, lists nd checkbox. Each role has its own set  of attributes that can be used to further define the element's purpose and state.
