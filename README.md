@@ -9,7 +9,7 @@ CSS property is used to assign the HTML elements behaviour. CSS selectors are as
 Javascript is a lightweight and compiled interpreted programming language used to make web pages interact. It can be used as Client-side as well as Server-side development.
 
 
-**UNIT 2- HTML FORMATTING**
+**HTML FORMATTING**
 
 **HTML has 6 headlines** from h1-h6. H1 is the largest that catchs the attention of the reader, then h6 is the least important and does grab much attention. To emphasize something we use Italics.
 To convey a warning or highlight we use Bold words.
@@ -21,8 +21,6 @@ To convey a warning or highlight we use Bold words.
 pre tag is used to define the preformatted.
 **HTML Superscrips, Subscripts&small text**
 Superscripts is a text that is raised above the baseline more like an exponent. The tag used to create subscripts is the one lowered beyond the baseline.
-
-**UNIT 3**
 
 **HTML Capabilities and Attributes**
 They allow you to customize the appearance and functionality of your web.You can use tags to format text, create links, add images, embed videos, create tables, and more.
