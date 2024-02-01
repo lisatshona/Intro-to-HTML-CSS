@@ -18,7 +18,7 @@ Code is used to define a piece of a computer code. The content inside is display
 <br> tag inserts a single line break, it is mostly used in poems and writting addresses. It is an empty tag with no end tag.
 pre tag is used to define the preformatted text which preserves the text spaces, line breaks, tabs and others that are ignored by
 **HTML Superscrips, Subscripts&small text**
-Superscripts is a text that is raised above the baseline more like an exponent. The tag used to create subscripts is the one lowered beyond the baseline.
+Superscripts is a character that is raised above the baseline more like an exponent. The tag used to create subscripts is the one lowered beyond the baseline. I can say they use characters.
 
 **HTML Capabilities and Attributes**
 
