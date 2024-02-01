@@ -34,4 +34,6 @@ The nav tag is used to define a set of navigation links, but it is only intended
 URL is the address of a website to access the website content. They are either absolute or relative. Relative Url focus on the current's file location wheres absolute stsrt from the root of the website. CSS is used to apply the visual appearance to the menu.
 
 
+**Images**
 
+Images have 4 attributes. SRC tells browser which image to load. ALT provides the description of the image. Height and width show the size of the image.
