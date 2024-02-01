@@ -10,12 +10,13 @@ Each opened tag should be closed at the end. The language uses tags to define ma
 
 **HTML has 6 headlines** from h1-h6. H1 is the largest that attracts the attention of the reader, then h6 is the least important and doesn't grab much attention. To emphasize something we use Italics.
 To convey a warning or highlight we use Bold words.
-**HTM Lists** are important elements, we have 3 types namely ordered,unordered and definition list. Unordered lists is just a list that the order doesnt matter, each element is enclosed in then the list is wrapped to show its unorderd list. Ordered list is whereby the ordered of the list matters. Definition list is used to define terms as the word says. We use a specific tags for definition of lists. 
+**HTM Lists** are important elements, we have 3 types namely ordered,unordered and definition list. Unordered lists is just a list that the order doesn't matter, each element is enclosed in then the list is wrapped to show its unorderd list. Ordered list is whereby the ordered of the list matters. Definition list is used to define terms as the word says. We use a specific tags for definition of lists. 
 **HTML Quotes** are used to format a text as a quote, block quote is used to format large chuncks of text as quote and are usuallly displayed with a different background. Inline quotes format small texts as quote and are displayed with quotation marks. 
-**HTML date elements** are used to display date on a web page and we use format that is understood by computer. The value attribute specifies thew date to be displayed. The tag element is used to create a date picker and it can be used to customise the date picker. Time picker allows you to select the time of the day. Using datetime element allows you to combine both time and date ,starting with date and follows time. The datetime can be separated by leaving or T inbetween.
+**HTML date elements** are used to display date on a web page and we use format that is understood by computer. The value attribute specifies the date to be displayed. A specific tag element is used to create a date picker and it can be used to customise the date picker. Time picker allows you to select the time of the day. Using datetime element allows you to combine both time and date ,starting with date and follows time. The datetime can be separated by leaving or T inbetween.
 **HTML Code, pre and br**
-<br> tag inserts a single line break, it is mostly used in poems and writing addresses. It is an empty tag with no end tag.
-pre tag is used to define the preformatted.
+Code is used to define a piece of a computer code. The content inside is displayed in the browser's default monospace font.
+<br> tag inserts a single line break, it is mostly used in poems and writting addresses. It is an empty tag with no end tag.
+pre tag is used to define the preformatted text which preserves the text spaces, line breaks, tabs and others that are ignored by
 **HTML Superscrips, Subscripts&small text**
 Superscripts is a text that is raised above the baseline more like an exponent. The tag used to create subscripts is the one lowered beyond the baseline.
 
