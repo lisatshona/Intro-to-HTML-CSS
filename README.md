@@ -36,4 +36,4 @@ URL is the address of a website to access the website content. They are either a
 
 **Images**
 
-Images have 4 attributes. SRC tells browser which image to load. ALT provides the description of the image. Height and width show the size of the image.
+Images have 4 attributes. SRC tells browser which image to load. ALT provides the description of the image. Height and width show the size of the image. Images can be inserted using URL to access internet file or proving full path to the location of the current file. Images can be adjusted the way you want them to. Images have 4 different formats
