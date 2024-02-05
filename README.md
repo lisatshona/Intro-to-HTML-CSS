@@ -2,7 +2,7 @@
 
 **Week 1**
 
-HTML is a markup language used to create web pages. Hypertext defines the links between the web pages. HTML is core to front-end development work. HTML can be created using any text editor. It uses tags to structures the Web pages. Tags are used to indicate the title and the body. It has it's elements, these elements can be nested within other the elements. The elememnts can also have attributes. HTML is used for developing fundamentals about web programming.
+HTML is a markup language used to create web pages. Hypertext defines the links between the web pages. HTML is core to front-end development work. HTML can be created using any text editor. It uses tags to structures the Web pages. Tags are used to indicate the title and the body. It has it's elements, these elements can be nested within other the elements. The elements can also have attributes. HTML is used for developing fundamentals about web programming.
 Each opened tag should be closed at the end. The language uses tags to define manipulation that has been done on the text.
 
 
@@ -36,4 +36,15 @@ URL is the address of a website to access the website content. They are either a
 
 **Images**
 
-Images have 4 attributes. SRC tells browser which image to load. ALT provides the description of the image. Height and width show the size of the image. Images can be inserted using URL to access internet file or proving full path to the location of the current file. Images can be adjusted the way you want them to. Images have 4 different formats
+Images have 4 attributes. SRC tells browser which image to load. ALT provides the description of the image. Height and width show the size of the image. Images can be inserted using URL to access internet file or proving full path to the location of the current file. Images can be adjusted the way you want them to. Images have 4 different formats which are GIF, SVG, PNG & JPG. Responsive images will automatically adjust to fit the size of the screen. There are techniques used to make large images small but still delivering beautiful images. You are able to add a caption of your own using figcaption element. SVG can display large pictures without pixelation. You can add  chapter divisions to videos by referencing VTT file listing chapters.
+Lang element is used to specify the language of a web page. Setting it on the main element is the best, it will apply to the whole page. Being secific abou the direction is important, dir element is used to point the direction and can be applied to any element. 
+Meta charset with is equals to UTF-8 is placed within the head element of html.
+Div is a block-level emement used to create sections,sidebars & everything in between. Span is inline element used to a color part of a text.
+When searching something in a browser, the results are in HTML file, then browser will follow the instructions and give you what you want.
+The head contains all the metadata that browser need to know but will not be displayed on the page. The body consist of all the content where most of action takes place.
+Scipt element is used to load javascript file.
+There are 6 important elements namely, main, head, footer, article, section, aside. They are the ones that structure the content. There is a lot of creativity when designing the webpage.
+
+Forms is an html element used to input data containing interactive controls. Form tag is used to structure inout element. If you forget to use the input element it will assume thst it is a text.
+
+Audio element has openning and closing tag unlike the image element. It is used to embed sound content in documents. It my contain one audio sources or more but the browser will choose the most suitable one. The video element contains one or more sourcr tags with different vid sources, allowing you to load, play, and pause videos as well as setting duration and volume. The text between the video tags will be displayed on the browser that do not support the video element. Video has 480p compressed using H.264 codec. Track element is used to link it to a text file and add captions to the video. Source lang attribute is used to show the language and add default attribute to make this track default when captions are enable. Chapters allow the user to jump to any part of the video. We use track element within the video element to display the caption 
