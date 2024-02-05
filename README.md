@@ -40,6 +40,9 @@ Images have 4 attributes. SRC tells browser which image to load. ALT provides th
 Lang element is used to specify the language of a web page. Setting it on the main element is the best, it will apply to the whole page. Being secific abou the direction is important, dir element is used to point the direction and can be applied to any element. 
 Meta charset with is equals to UTF-8 is placed within the head element of html.
 Div is a block-level emement used to create sections,sidebars & everything in between. Span is inline element used to a color part of a text.
+
+Audio element has openning and closing tag unlike the image element. It is used to embed sound content in documents. It my contain one audio sources or more but the browser will choose the most suitable one. The video element contains one or more sourcr tags with different vid sources, allowing you to load, play, and pause videos as well as setting duration and volume. The text between the video tags will be displayed on the browser that do not support the video element. Video has 480p compressed using H.264 codec. Track element is used to link it to a text file and add captions to the video. Source lang attribute is used to show the language and add default attribute to make this track default when captions are enable. Chapters allow the user to jump to any part of the video. We use track element within the video element to display the caption.
+
 When searching something in a browser, the results are in HTML file, then browser will follow the instructions and give you what you want.
 The head contains all the metadata that browser need to know but will not be displayed on the page. The body consist of all the content where most of action takes place.
 Scipt element is used to load javascript file.
@@ -47,4 +50,3 @@ There are 6 important elements namely, main, head, footer, article, section, asi
 
 Forms is an html element used to input data containing interactive controls. Form tag is used to structure inout element. If you forget to use the input element it will assume thst it is a text.
 
-Audio element has openning and closing tag unlike the image element. It is used to embed sound content in documents. It my contain one audio sources or more but the browser will choose the most suitable one. The video element contains one or more sourcr tags with different vid sources, allowing you to load, play, and pause videos as well as setting duration and volume. The text between the video tags will be displayed on the browser that do not support the video element. Video has 480p compressed using H.264 codec. Track element is used to link it to a text file and add captions to the video. Source lang attribute is used to show the language and add default attribute to make this track default when captions are enable. Chapters allow the user to jump to any part of the video. We use track element within the video element to display the caption 
