@@ -45,8 +45,8 @@ Audio element has openning and closing tag unlike the image element. It is used 
 
 When searching something in a browser, the results are in HTML file, then browser will follow the instructions and give you what you want.
 The head contains all the metadata that browser need to know but will not be displayed on the page. The body consist of all the content where most of action takes place.
-Scipt element is used to load javascript file.
+Script element is used to load javascript file.
 There are 6 important elements namely, main, head, footer, article, section, aside. They are the ones that structure the content. There is a lot of creativity when designing the webpage.
 
-Forms is an html element used to input data containing interactive controls. Form tag is used to structure inout element. If you forget to use the input element it will assume thst it is a text.
+Forms is an html element used to input data containing interactive controls. Form tag is used to structure inout element. If you forget to use the input element it will assume that it is a text.
 
