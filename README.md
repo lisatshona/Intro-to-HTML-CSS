@@ -1,6 +1,5 @@
 # INTRO TO HTML-CSS
 
-**Week 1**
 
 HTML is a markup language used to create web pages. Hypertext defines the links between the web pages. HTML is core to front-end development work. HTML can be created using any text editor. It uses tags to structures the Web pages. Tags are used to indicate the title and the body. It has it's elements, these elements can be nested within other the elements. The elements can also have attributes. HTML is used for developing fundamentals about web programming.
 Each opened tag should be closed at the end. The language uses tags to define manipulation that has been done on the text.
@@ -65,5 +64,7 @@ There are 6 important elements namely, main, head, footer, article, section, asi
 
 **CSS**
 
-CSS is a designed language used for styling the HTML document. CSS has a rule which consistt of a selector (which points out the html element you want to style) and declaration (has property and value). The universal selector is used to style all the html elements. Group selector minimize the code because it groups all the elements with same style definition. There is external, internal an Inline CSS that work differently.
+CSS is a designed language used for styling the HTML document. CSS has a rule which consistt of a selector (which points out the html element you want to style) and declaration (has property and value). The universal selector is used to style all the html elements. Group selector minimize the code because it groups all the elements with same style definition. There is external, internal and Inline CSS that work differently. CSS uses color property to set color for different HTML elements. There are various ways used to apply the color. Color palettes may not include color names. Ypu can use a color for a text only or background or for the whole page or selected element. You can custom your own colors using canvas.
+
+Web supports 3 types of image formats. Background images can be used on a certain portion or repeated. Backgroung images can be controlled by specifying if it will be in the centre, right or left. The positon and height can be stated too. Percentage is used to adjust an image.
 
