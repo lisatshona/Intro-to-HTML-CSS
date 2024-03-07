@@ -72,13 +72,16 @@ Font-family property is always added to the body element.
 
 
 **JAVASCRIPT**
+
 Is a programming language that is used to make webpages interactive also known as untyped language. JS allows you to work with 3 primitive data types, it also defines two trivial data types. 
 JS Variables are containers that stores data, before using variable it needs to be declared. Storing value in a variable is known as initialization.
 It can hold value of any data type.
 Operators are used to perfom mathematical and logical computations on operands. There are arithmetic and assignment operators.
 Assignments
 Comments are written using //.
-Javascript Strings and Arrays
+
+**Javascript Strings and Arrays**
+
 JS Array is a collection of strings or array elements that can hold more than one value, they are converted to strings using the toString() method . They are declared in 2 ways to create empty array. They are mutable, pop,push, shift & unshift are used to add/remove elements.
 String is a collection of characters, they are converted to array using the split method. They are primitive and immutable. We use single, double or backticks to write them. Console.log() is the easiest way to print output of a string.
 Function is a group of reusable code which can be called anywhere in a program.
