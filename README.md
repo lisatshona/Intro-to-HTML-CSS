@@ -84,4 +84,10 @@ Comments are written using //.
 
 JS Array is a collection of strings or array elements that can hold more than one value, they are converted to strings using the toString() method . They are declared in 2 ways to create empty array. They are mutable, pop,push, shift & unshift are used to add/remove elements.
 String is a collection of characters, they are converted to array using the split method. They are primitive and immutable. We use single, double or backticks to write them. Console.log() is the easiest way to print output of a string.
-Function is a group of reusable code which can be called anywhere in a program.
+Function is a group of reusable code which can be called anywhere in a program. It is executed when something calls it. When JS reaches return, the function willl stop executing.
+Parameters are variables that are placeholders for the values that are to be input to a function when it's called. The parantheses operator () is used to call function followed by unique function name. Parameters are the names listed in the function definition. If a function is called with a missing argument then the missing values are undefined. Statement block is in curly braces.
+
+**BOOLEANS**
+
+They are presented by True or False. Booleans function is used to find out if the expression is true or not. Operators (==,>,<) are used to compare. Everything withn a value is True and everything without a value is False.
+It is useful to store them in variables to keep track of their values & change them over time.
