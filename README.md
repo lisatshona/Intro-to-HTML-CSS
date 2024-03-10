@@ -76,8 +76,8 @@ Font-family property is always added to the body element.
 Is a programming language that is used to make webpages interactive also known as untyped language. JS allows you to work with 3 primitive data types, it also defines two trivial data types. 
 JS Variables are containers that stores data, before using variable it needs to be declared. Storing value in a variable is known as initialization.
 It can hold value of any data type.
-Operators are used to perfom mathematical and logical computations on operands. There are arithmetic and assignment operators.
-Assignments
+Operators are used to perform mathematical and logical computations on operands. There are arithmetic and assignment operators.
+Assignments operators assign values to JS variables.
 Comments are written using //.
 
 **Javascript Strings and Arrays**
@@ -89,5 +89,10 @@ Parameters are variables that are placeholders for the values that are to be inp
 
 **BOOLEANS**
 
-They are presented by True or False. Booleans function is used to find out if the expression is true or not. Operators (==,>,<) are used to compare. Everything withn a value is True and everything without a value is False.
-It is useful to store them in variables to keep track of their values & change them over time.
+They are presented by True or False. Booleans function is used to find out if the expression is true or not. Operators (==,>,<) are used to compare. Everything within a value is True and everything without a value is False.
+It is useful to store them in variables to keep track of their values & change them over time. Conditional statements are used to perform different actions based on different conditions.
+If statement is used to specify a block of a code to be executed, if a specified condition is true.
+Else statement used if the same condition is false.
+Else if to specify a new condition to test, if first condition is false.
+Switch to specify many alternative blocks of code. It is evaluated once. The value of expression is compared with the values of each case. Break is used to break out of the switc block. 
+Default specifies the code to run if there is no case match.
