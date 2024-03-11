@@ -1,4 +1,4 @@
-# INTRO TO HTML-CSS
+# INTRO TO HTML, CSS & JAVASCRIPT
 
 
 HTML is a markup language used to create web pages. Hypertext defines the links between the web pages. HTML is core to front-end development work. HTML can be created using any text editor. It uses tags to structures the Web pages. Tags are used to indicate the title and the body. It has it's elements, these elements can be nested within other the elements. The elements can also have attributes. HTML is used for developing fundamentals about web programming.
@@ -66,10 +66,10 @@ There are 6 important elements namely, main, head, footer, article, section, asi
 
 CSS is a designed language used for styling the HTML document. CSS has a rule which consist of a selector (which points out the html element you want to style) and declaration (has property and value). The universal selector is used to style all the html elements. Group selector minimize the code because it groups all the elements with same style definition. There is external, internal and Inline CSS that work differently. CSS uses color property to set color for different HTML elements. There are various ways used to apply the color. Color palettes may not include color names. You can use a color for a text only or background or for the whole page or selected element. You can custom your own colors using canvas.
 
-Web supports 3 types of image formats. Background images can be used on a certain portion or repeated. Backgroung images can be controlled by specifying if it will be in the centre, right or left. The position and height can be stated too. Percentage is used to adjust an image. Only css-named colors work directly in css.
+Web supports 3 types of image formats. Background images can be used on a certain portion or repeated. Background images can be controlled by specifying if it will be in the centre, right or left. The position and height can be stated too. Percentage is used to adjust an image. Only css-named colors work directly in css.
 Serif makes letters connect and text to be easily read. San Serif makes the web clean and easy to read, mostly set as default font on computers especially if there is no font declared. There are different fonts used neitherless one should apply the one that will not complicate things. The only way to measure the font is either absolute or relative. The size of the heading can be adjusted to outline the purpose of the heading. Every html element has it's property though it might have a value of zero. Padding is the space between the content and border. Margin being the space between the elements. Border-radius allows us to round the corners of elements. 
 Font-family property is always added to the body element.
-
+Inheritances it also applied to certain elements but can only be inherited when declared in the head, some elements can not be inherited.
 
 **JAVASCRIPT**
 
@@ -90,9 +90,10 @@ Parameters are variables that are placeholders for the values that are to be inp
 **BOOLEANS**
 
 They are presented by True or False. Booleans function is used to find out if the expression is true or not. Operators (==,>,<) are used to compare. Everything within a value is True and everything without a value is False.
-It is useful to store them in variables to keep track of their values & change them over time. Conditional statements are used to perform different actions based on different conditions.
+It is useful to store them in variables to keep track of their values & change them over time. Conditional statements are used to perform different actions based on different conditions. We compare Logical And Operator, then Logical Or Operator.
 If statement is used to specify a block of a code to be executed, if a specified condition is true.
 Else statement used if the same condition is false.
 Else if to specify a new condition to test, if first condition is false.
-Switch to specify many alternative blocks of code. It is evaluated once. The value of expression is compared with the values of each case. Break is used to break out of the switc block. 
+Switch to specify many alternative blocks of code. It is evaluated once. The value of expression is compared with the values of each case. Break is used to break out of the switch block. 
 Default specifies the code to run if there is no case match.
+JavaScript Sprints contains algorithm and data structures. The gold code practical was a bit complicated, else statements were used to compare situations. Other than that they are not difficult. 
