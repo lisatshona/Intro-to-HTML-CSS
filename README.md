@@ -84,7 +84,7 @@ Comments are written using //.
 
 JS Array is a collection of strings or array elements that can hold more than one value, they are converted to strings using the toString() method . They are declared in 2 ways to create empty array. They are mutable, pop,push, shift & unshift are used to add/remove elements.
 String is a collection of characters, they are converted to array using the split method. They are primitive and immutable. We use single, double or backticks to write them. Console.log() is the easiest way to print output of a string.
-Function is a group of reusable code which can be called anywhere in a program. It is executed when something calls it. When JS reaches return, the function willl stop executing.
+Function is a group of reusable code which can be called anywhere in a program. It is executed when something calls it. When JS reaches return, the function will stop executing.
 Parameters are variables that are placeholders for the values that are to be input to a function when it's called. The parantheses operator () is used to call function followed by unique function name. Parameters are the names listed in the function definition. If a function is called with a missing argument then the missing values are undefined. Statement block is in curly braces.
 
 **BOOLEANS**
@@ -97,3 +97,19 @@ Else if to specify a new condition to test, if first condition is false.
 Switch to specify many alternative blocks of code. It is evaluated once. The value of expression is compared with the values of each case. Break is used to break out of the switch block. 
 Default specifies the code to run if there is no case match.
 JavaScript Sprints contains algorithm and data structures. The gold code practical was a bit complicated, else statements were used to compare situations. Other than that they are not difficult. 
+
+**Type Conversions**
+Operators & functions convert values given to them to the right type automtically.
+String conversion is used when we need the string to form a value. eg alert(value).
+Numeric conversion happens in mathematical functions & expressions automatically.
+We have various methods to use for certain conditions
+
+**DOM**
+ Is a programming interface for web documents. It represents the structure of HTML and XML documents.
+ It provides structural representations of the document and defines a way that structure is to be accessed.
+ Javascript has syntax that have objects. To access an object, property, or method, its reference must include every object that contains it, separated by a dot.
+
+ **Javascript APIs**
+  Allow developers to interact with various features and functionalities of web browsers and other environments.
+  JavaScript APIs are available for web development. Each API serves specific purposes and provides functionalities that can enhance the capabilities of web applications.
+
