@@ -112,4 +112,12 @@ We have various methods to use for certain conditions
  **Javascript APIs**
   Allow developers to interact with various features and functionalities of web browsers and other environments.
   JavaScript APIs are available for web development. Each API serves specific purposes and provides functionalities that can enhance the capabilities of web applications.
+  
+Flowcharts are valuable for documenting processes, analyzing complex systems, designing algorithms, and communicating ideas visually.
+There are shapes used to demonstrate each condition/statement of the process.
 
+
+Loops are control structures in programming languages that allow you to execute a block of code repeatedly based on a certain condition.
+**For loop** Is used when you know the number of times you want to execute a code of block.
+**While** Is used when you want to execute a block of code as long as the condition is True.
+**Do-While** Code inside is executed at least once.
