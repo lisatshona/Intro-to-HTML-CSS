@@ -102,22 +102,58 @@ JavaScript Sprints contains algorithm and data structures. The gold code practic
 Operators & functions convert values given to them to the right type automtically.
 String conversion is used when we need the string to form a value. eg alert(value).
 Numeric conversion happens in mathematical functions & expressions automatically.
-We have various methods to use for certain conditions
+Boolean conversion happens in logical operations.
+
+**Formatting Numbers**
+
+toString-returns numeric value into string
+toExponential- return numbers into string also but the number is in exponential form.
+toFixed-return numbers into string but with a specific decimal, decimal specified in () after the method name.
+toPrecision-return numbers into string but with a specific length with length specified inside () after method name.
+valueOf- return a number as a number.Turn objects into primitive values e.g (typeOf=number) or (typeOf=object)
+
+**Converting variables to numbers**
+
+Number() - Convert JS variables into numbers.
+ParseInt() - Creates JS Integer. Parse string & return number but only the first number will be returned.
+ParseFloat() -Parse string & return float number but only the first number will be returned.
 
 **DOM**
  Is a programming interface for web documents. It represents the structure of HTML and XML documents.
  It provides structural representations of the document and defines a way that structure is to be accessed.
  Javascript has syntax that have objects. To access an object, property, or method, its reference must include every object that contains it, separated by a dot.
+ **JavaScript Objects** are Window, Document, Form & Image.
+ 
+ **JS Methods** are the following:
+ alert()- causes an alert dialog box to appear over the page that launched it.
+ write()-writes the content of the page.
+ focus()- causes cursor to be inserted into a form element.
 
  **Javascript APIs**
   Allow developers to interact with various features and functionalities of web browsers and other environments.
   JavaScript APIs are available for web development. Each API serves specific purposes and provides functionalities that can enhance the capabilities of web applications.
   
-Flowcharts are valuable for documenting processes, analyzing complex systems, designing algorithms, and communicating ideas visually.
+ **APIs in Web and XML page**
+
+document.getElementById(id)
+document.getElementsByTagName(name)
+document.createElement(name)
+parentNode.appendChild(node)
+element.innerHTML
+element.style.left
+element.setAttribute
+element.getAttribute
+element.addEventListener
+window._content
+window.onload
+window.dump()
+window.scrollTo()
+
+**Flowcharts** are valuable for documenting processes, analyzing complex systems, designing algorithms, and communicating ideas visually.
 There are shapes used to demonstrate each condition/statement of the process.
 
+**Loops** are control structures in programming languages that allow you to execute a block of code repeatedly based on a certain condition.
 
-Loops are control structures in programming languages that allow you to execute a block of code repeatedly based on a certain condition.
 **For loop** Is used when you know the number of times you want to execute a code of block.
 **While** Is used when you want to execute a block of code as long as the condition is True.
 **Do-While** Code inside is executed at least once.
