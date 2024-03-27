@@ -99,6 +99,7 @@ Default specifies the code to run if there is no case match.
 JavaScript Sprints contains algorithm and data structures. The gold code practical was a bit complicated, else statements were used to compare situations. Other than that they are not difficult. 
 
 **Type Conversions**
+
 Operators & functions convert values given to them to the right type automtically.
 String conversion is used when we need the string to form a value. eg alert(value).
 Numeric conversion happens in mathematical functions & expressions automatically.
