@@ -163,3 +163,21 @@ There are shapes used to demonstrate each condition/statement of the process.
 **For loop** Is used when you know the number of times you want to execute a code of block.
 **While** Is used when you want to execute a block of code as long as the condition is True.
 **Do-While** Code inside is executed at least once.
+
+
+
+**Node.js**
+
+Node.js is one of the powerful open-source and cross-platform runtime environment built on Chrome’s V8 JavaScript engine for executing JavaScript code outside of a browser. It stands out as a game-changer. It is primarily used for Server-side Javascript.
+Node.js runs on V8 javacscript engine. It operates within a single process to avoid creating a new thread for every request.
+Node.js provides a set of asynchronous I/O primitives in its standard library. Node.js doesn't waste CPU cycles waiting but instead but resumes operations when response arrives.
+Node.js efficiently handles thousands of concurrent connections using a single server. It avoids the complexities of managing thread concurrency, which can lead to bugs.
+Node.js supports the latest ECMAScript standards. You can choose the version you want to use, independent of users’ browser updates.
+
+**Key features of Node.js**
+1. Non-blocking I/O: Node.js is asynchronous, enabling efficient handling of concurrent requests.
+2. Event-driven architecture: Developers can create event-driven applications using callbacks and event emitters.
+3. Extensive module ecosystem: npm (Node Package Manager) provides access to thousands of reusable packages.
+
+**Node.js Datatypes**
+Booleans, String, Undefined, Number, Null
