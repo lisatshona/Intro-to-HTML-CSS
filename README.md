@@ -169,7 +169,7 @@ There are shapes used to demonstrate each condition/statement of the process.
 **Node.js**
 
 Node.js is one of the powerful open-source and cross-platform runtime environment built on Chrome’s V8 JavaScript engine for executing JavaScript code outside of a browser. It stands out as a game-changer. It is primarily used for Server-side Javascript.
-Node.js runs on V8 javacscript engine. It operates within a single process to avoid creating a new thread for every request.
+It operates within a single process to avoid creating a new thread for every request.
 Node.js provides a set of asynchronous I/O primitives in its standard library. Node.js doesn't waste CPU cycles waiting but instead but resumes operations when response arrives.
 Node.js efficiently handles thousands of concurrent connections using a single server. It avoids the complexities of managing thread concurrency, which can lead to bugs.
 Node.js supports the latest ECMAScript standards. You can choose the version you want to use, independent of users’ browser updates.
