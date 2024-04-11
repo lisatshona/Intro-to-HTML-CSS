@@ -181,3 +181,7 @@ Node.js supports the latest ECMAScript standards. You can choose the version you
 
 **Node.js Datatypes**
 Booleans, String, Undefined, Number, Null
+
+Framework is like a structure that provides a base for the application development process. With the help of a framework, you can avoid writing everything from scratch. Frameworks provide a set of tools and elements that help in the speedy development process. It acts like a template that can be used and even modified to meet the project requirements. Frameworks are based on programming languages.
+Frameworks for Node.js are:
+Express, Sails& Koa
