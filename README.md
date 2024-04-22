@@ -185,3 +185,25 @@ Booleans, String, Undefined, Number, Null
 Framework is like a structure that provides a base for the application development process. With the help of a framework, you can avoid writing everything from scratch. Frameworks provide a set of tools and elements that help in the speedy development process. It acts like a template that can be used and even modified to meet the project requirements. Frameworks are based on programming languages.
 Frameworks for Node.js are:
 Express, Sails& Koa
+
+**REACT.JS** 
+
+React is a powerful JavaScript library for building dynamic and interactive user interfaces (UIs). It has the following features
+1. Javascript Syntax Extension (JSX)
+2. Virtual DOM
+3. One-way Data Binding
+4. Performance
+5. Extension
+6. Components
+7. Conditional statements in JSX
+
+**ReactJS Advantages**
+
+
+**Composable**: We can divide these codes and put them in custom components. Then we can utilize those components and integrate them into one place
+**Declarative**: In ReactJS, the DOM is declarative. We can make interactive UIs by changing the state of the component and ReactJS takes care of updating the DOM according to it.
+**SEO Friendly**: ReactJS affects the SEO by giving you a SPA (Single Page Application) which requires Javascript to show the content on the page which can be rendered and indexed.
+**Community**: ReactJS has a huge community because of its demand each company wants to work with ReactJS. Companies like Meta, Netflix, etc built on ReactJS.
+Easy to learn**: HTML-like syntax of JSX makes you comfortable with the codes of React, it only requires a basic knowledge of HTML, CSS, and JS fundamentals to start working with it.
+If you want to learn more refer to this article React JS Advantages
+**Debugging is Easy**: The debugging of ReactJS is unidirectional which means while designing any app using ReactJS the child components are nested within parent components. So, the data flow is in a single direction it gets more easier to debug errors.
