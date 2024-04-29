@@ -207,3 +207,12 @@ React is a powerful JavaScript library for building dynamic and interactive user
 Easy to learn**: HTML-like syntax of JSX makes you comfortable with the codes of React, it only requires a basic knowledge of HTML, CSS, and JS fundamentals to start working with it.
 If you want to learn more refer to this article React JS Advantages
 **Debugging is Easy**: The debugging of ReactJS is unidirectional which means while designing any app using ReactJS the child components are nested within parent components. So, the data flow is in a single direction it gets more easier to debug errors.
+
+
+**PYTHON**
+Is a highly popular dynamic programming language. Compatible with all major Operating System.It is easy to use as it is similar to other programs.
+Is an interpreted language, with new executable file being created when you run a code. This new file is the one that runs.
+Python variable is a container that stores values. Once an object is assigned to a variable, it can be referred to by that name. Variable must start with a letter or underscore character.
+Memory is where files and data is stored. Each file has its unique name then information about that file and information contained within that file. When writing and running computer program, we are automatically interacting with computer's memory. Programs generate bits (binary digits containing 0 & 1 only) of data called variables.
+When assigning one variable to another, we're not creating a duplicate; instead, we're assigning both variables to the same location in memory. Python is employed in developing vast, complicated systems. Any text editor can be used to write python.
+Jupyter is a web application that allows you to write and execute Python programms in a web browser that command line.
