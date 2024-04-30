@@ -127,7 +127,7 @@ ParseFloat() -Parse string & return float number but only the first number will 
 **DOM**
  Is a programming interface for web documents. It represents the structure of HTML and XML documents.
  It provides structural representations of the document and defines a way that structure is to be accessed.
- Javascript has syntax that have objects. To access an object, property, or method, its reference must include every object that contains it, separated by a dot.
+ Javascript has syntax that have objects. To access an object, property, or method, it's reference must include every object that contains it, separated by a dot.
  **JavaScript Objects** are Window, Document, Form & Image.
  
  **JS Methods** are the following:
@@ -200,18 +200,24 @@ React is a powerful JavaScript library for building dynamic and interactive user
 **ReactJS Advantages**
 
 
-**Composable**: We can divide these codes and put them in custom components. Then we can utilize those components and integrate them into one place
+**Composable**: We can divide these codes and put them in custom components. Then we can utilize those components and integrate them into one place.
+
 **Declarative**: In ReactJS, the DOM is declarative. We can make interactive UIs by changing the state of the component and ReactJS takes care of updating the DOM according to it.
+
 **SEO Friendly**: ReactJS affects the SEO by giving you a SPA (Single Page Application) which requires Javascript to show the content on the page which can be rendered and indexed.
+
 **Community**: ReactJS has a huge community because of its demand each company wants to work with ReactJS. Companies like Meta, Netflix, etc built on ReactJS.
-Easy to learn**: HTML-like syntax of JSX makes you comfortable with the codes of React, it only requires a basic knowledge of HTML, CSS, and JS fundamentals to start working with it.
-If you want to learn more refer to this article React JS Advantages
+
+**Easy to learn**: HTML-like syntax of JSX makes you comfortable with the codes of React, it only requires a basic knowledge of HTML, CSS, and JS fundamentals to start working with it.
+If you want to learn more refer to this article React JS Advantages.
+
 **Debugging is Easy**: The debugging of ReactJS is unidirectional which means while designing any app using ReactJS the child components are nested within parent components. So, the data flow is in a single direction it gets more easier to debug errors.
 
 
 **PYTHON**
 Is a highly popular dynamic programming language. Compatible with all major Operating System.It is easy to use as it is similar to other programs.
 Is an interpreted language, with new executable file being created when you run a code. This new file is the one that runs.
+
 Python variable is a container that stores values. Once an object is assigned to a variable, it can be referred to by that name. Variable must start with a letter or underscore character.
 Memory is where files and data is stored. Each file has its unique name then information about that file and information contained within that file. When writing and running computer program, we are automatically interacting with computer's memory. Programs generate bits (binary digits containing 0 & 1 only) of data called variables.
 When assigning one variable to another, we're not creating a duplicate; instead, we're assigning both variables to the same location in memory. Python is employed in developing vast, complicated systems. Any text editor can be used to write python.
@@ -233,7 +239,7 @@ A data structure is a particular way of organising data in a computer so that it
 List as a data structure, can contain any data type, including a list within a list. The order is important.
 Set as data structure, contains unique elements and is declared using curly braces. The order is not important.
 Tuples contain any data type but once declared they can not be modified. They store a large amount of data.
-Dictionaries, is a data structure that store the value of value:key-pairs. They are declared within curly braces & separated by a comma. Cn be created by the built-in function dict().
+Dictionaries, is a data structure that store the value of value:key-pairs. They are declared within curly braces & separated by a comma. Can be created by the built-in function dict().
 
 **Operators**
 
