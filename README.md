@@ -257,4 +257,16 @@ Logical operators, such as "and," "or," and "not," operate on Boolean values onl
 1. The if statement-allows you to execute a block of code only if a certain condition is met.
 2. The if-else statement- the code under that will be executed if the condition is false. 
 3. The nested-if statement-is an if statement that is the target of another if statement.
-4. The if-elif-else ladder-As soon as one of the conditions controlling the if is true, the statement associated with that if is executed, and the rest of the ladder is bypassed. If none of the conditions is true, then the final “else” statement will be executed
+4. The if-elif-else ladder-As soon as one of the conditions controlling the if is true, the statement associated with that if is executed, and the rest of the ladder is bypassed. If none of the conditions is true, then the final “else” statement will be executed.
+
+**Python Functions**
+
+Python Functions is a block of statements that return the specific task. Defined using "def" followed by the function name and arguments in parentheses.
+Function body indented and contains the code that performs the desired operation on the inputs and returns output. Functions can take one or more arguments, and they may or may not return a value. Function may mutate a variable without returning anything.
+
+**Some Benefits of Using Functions**
+
+1. Increase Code Readability 
+2. Increase Code Reusability
+
+**Classes and Objects**
