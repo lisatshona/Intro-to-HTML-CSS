@@ -216,3 +216,39 @@ Python variable is a container that stores values. Once an object is assigned to
 Memory is where files and data is stored. Each file has its unique name then information about that file and information contained within that file. When writing and running computer program, we are automatically interacting with computer's memory. Programs generate bits (binary digits containing 0 & 1 only) of data called variables.
 When assigning one variable to another, we're not creating a duplicate; instead, we're assigning both variables to the same location in memory. Python is employed in developing vast, complicated systems. Any text editor can be used to write python.
 Jupyter is a web application that allows you to write and execute Python programms in a web browser that command line.
+Variable is a basic unit of program assigned to a value. They begin with small letters in python. = sign is used as asignment operator.
+
+**Variables in Python**
+
+1. Integer(whole numbers)
+2. Floats(Decimal numbers)
+3. Complex numbers(Used for complex mathematical calculations)
+4. Strings(Collection of characters, + is used to concatenate them) can not be used to add strings and numbers.
+5. Booleans(True/ False)
+ Error messages provide a lot of information in Python.
+
+**Data Structures**
+
+A data structure is a particular way of organising data in a computer so that it can be used effectively. The idea is to reduce the space and time complexities of different tasks. Allow for the storage of a list of values in a single variable.
+List as a data structure, can contain any data type, including a list within a list. The order is important.
+Set as data structure, contains unique elements and is declared using curly braces. The order is not important.
+Tuples contain any data type but once declared they can not be modified. They store a large amount of data.
+Dictionaries, is a data structure that store the value of value:key-pairs. They are declared within curly braces & separated by a comma. Cn be created by the built-in function dict().
+
+**Operators**
+
+Operators are instructions used to perform operations on values and variables. They manipulate & perfom actions on data.
+Arithmetic operator is mostly used to perform mathematical calculations. (+, -, *, /).
+Division operator returns a floating-point value even if the results are a whole number.
+Modulus operator (%) provides the remainder after division and will return the remainder.
+Strings can also be manipulated using operators. Addition operator for strings works only with two strings, while the multiplication operator can work with either a string or a number.
+Comparison operators evaluate two variables or values and produce a Boolean result.
+Logical operators, such as "and," "or," and "not," operate on Boolean values only. "OR" is used when at least operand is true.
+
+**Control Flow**
+ Python uses indentation to identify a block
+ 
+1. The if statement-allows you to execute a block of code only if a certain condition is met.
+2. The if-else statement- the code under that will be executed if the condition is false. 
+3. The nested-if statement-is an if statement that is the target of another if statement.
+4. The if-elif-else ladder-As soon as one of the conditions controlling the if is true, the statement associated with that if is executed, and the rest of the ladder is bypassed. If none of the conditions is true, then the final “else” statement will be executed
