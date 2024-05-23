@@ -269,9 +269,18 @@ Function body indented and contains the code that performs the desired operation
 1. Increase Code Readability 
 2. Increase Code Reusability
 
+*args:they pass non-keyworded, variable length argument list to a function. It is a tuple of arguments that can be accessed by indexing (e.g., args[0], args[1], etc.).
+**kwargs: They pass key-worded, variable length argument list to a function. It is a dictionary of arguments that can be accessed by key (e.g., kwargs['name'], kwargs['age'], etc.).
+
+
 **Classes and Objects**
 Almost everything in Python is an object, with its properties and methods.
-A Class is like an object constructor, "class"is used as keyword.
-Objects can also contain methods. Methods in objects are functions that belong to the object.
+A Class is a template that defines the properties and behavior of an object. It is like an object constructor, "class"is used as keyword.
+Objects is an instance of a class, it also contain methods & attributes defined by a class. Methods in objects are functions that belong to the object.
+
+**Inheritance**
+Inheritance in Python is a mechanism that allows one class to inherit the attributes and methods of another class. The inheriting class, also known as the subclass or derived class, inherits all the fields and methods of the parent class, also known as the superclass or base class.
+
+
 
 
