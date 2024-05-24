@@ -281,6 +281,6 @@ Objects is an instance of a class, it also contain methods & attributes defined 
 **Inheritance**
 Inheritance in Python is a mechanism that allows one class to inherit the attributes and methods of another class. The inheriting class, also known as the subclass or derived class, inherits all the fields and methods of the parent class, also known as the superclass or base class.
 
-
+**Data types**
 
 
