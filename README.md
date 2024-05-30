@@ -283,4 +283,29 @@ Inheritance in Python is a mechanism that allows one class to inherit the attrib
 
 **Data types**
 
+**Java**
 
+Back-end. Java is a highly popular, object-oriented programming language, that means java is the collection of objects, and these objects communicate through method calls to each other to work together.
+**Class** is a user-defined blueprint or prototype from which objects are created. Methods is the behavior of an object. **Object** a basic unit of Object-Oriented Programming and represents real-life entitiesIt is an entity that has behavior and state, Example: Dog, Cat, Monkey etc. are the object of “Animal” **class**.Object has 
+1. State: It is represented by the attributes of an object
+2. Behavior: It is represented by the methods of an object
+3. Identity: It gives a unique name to an object and enables one object to interact with other objects.
+
+An interface can have methods and variables, but the methods declared in an interface are by default abstract. Interfaces specify what a class must do and not how
+
+The **behavior** is (running on the road) which is the **Method**
+Instance variables: Every object has its own unique set of instance variables. The state of an object is generally created by the values that are assigned to these instance variables.
+When the class is public, the name of the file has to be the class name. Java does not allow space in between class names. Each word starts with a Capital letter 
+All the method names should start with a lowercase letter.
+Identifiers are the names of local variables, instance and class variables, and labels, but also the names for classes, packages, modules and methods. Java Identifiers can be a class name, method name, variable name, or label. 
+Computers are just data processors. They need a set of precise instructions, called a program, to do anything. They only undestand machine language.
+When it comes to getting stuff done, algorithms are the real heroes. They are a step-by-step of how a task can be completed. 
+
+Java is statically typed and also a strongly typed language because, in Java, each type of data (such as integer, character, hexadecimal, packed decimal, and so forth) is predefined as part of the programming language and all constants or variables defined for a given program must be described with one of the Java data types.
+**Java Data Types** have different sizes and values that can be stored in the variable.
+
+1. Primitive Data Type: such as boolean, char, int, short, byte, long, float, and double: only single values and have no special capabilities.
+2. Non-Primitive Data Type or Object Data type: such as String, Array, etc.
+
+An **IDE** is specialized software that is tailor-made for creating and running programs. IDE can be used for editing and running code, and it makes coding quicker and simpler.
+It has a debugger, which is a lifesaver for spotting and fixing errors in your program
