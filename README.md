@@ -291,7 +291,7 @@ Back-end. Java is a highly popular, object-oriented programming language, that m
 2. Behavior: It is represented by the methods of an object
 3. Identity: It gives a unique name to an object and enables one object to interact with other objects.
 
-An interface can have methods and variables, but the methods declared in an interface are by default abstract. Interfaces specify what a class must do and not how
+An interface can have methods and variables, but the methods declared in an interface are by default abstract. Interfaces specify what a class must do and not how.
 
 The **behavior** is (running on the road) which is the **Method**
 Instance variables: Every object has its own unique set of instance variables. The state of an object is generally created by the values that are assigned to these instance variables.
@@ -299,13 +299,49 @@ When the class is public, the name of the file has to be the class name. Java do
 All the method names should start with a lowercase letter.
 Identifiers are the names of local variables, instance and class variables, and labels, but also the names for classes, packages, modules and methods. Java Identifiers can be a class name, method name, variable name, or label. 
 Computers are just data processors. They need a set of precise instructions, called a program, to do anything. They only undestand machine language.
-When it comes to getting stuff done, algorithms are the real heroes. They are a step-by-step of how a task can be completed. 
+When it comes to getting stuff done, **algorithms** are the real heroes. They are a step-by-step of how a task can be completed. 
 
-Java is statically typed and also a strongly typed language because, in Java, each type of data (such as integer, character, hexadecimal, packed decimal, and so forth) is predefined as part of the programming language and all constants or variables defined for a given program must be described with one of the Java data types.
+Java is statically typed and also a strongly typed language because, in Java, each type of data (such as integer, character, hexadecimal, packed decimal, and so forth) is predefined as part of the programming language and all constants or variables defined for a given program must be described with one of the Java data types. Allows for type inference with local variables.
 **Java Data Types** have different sizes and values that can be stored in the variable.
 
 1. Primitive Data Type: such as boolean, char, int, short, byte, long, float, and double: only single values and have no special capabilities.
 2. Non-Primitive Data Type or Object Data type: such as String, Array, etc.
 
 An **IDE** is specialized software that is tailor-made for creating and running programs. IDE can be used for editing and running code, and it makes coding quicker and simpler.
-It has a debugger, which is a lifesaver for spotting and fixing errors in your program
+It has a debugger, which is a lifesaver for spotting and fixing errors in your program.
+
+Variable can be seen as a place in the computer's memory that holds information. It is the basic unit of storage in a program.
+In Java, **Variables** are the data containers that save the data values during Java program execution. Every Variable in Java is assigned a data type that designates the type and quantity of value it can hold. A variable is a memory location name for the data. Variables are declared before using them. Java can declare a variable as VAR. The value stored in a variable can be changed during program execution.
+
+data_name can only be given to a memory location. It can be assigned values in two ways: 
+1. Variable Initialization
+2. Assigning value by taking input
+In Java it is wise to selected descriptive names
+**Variables can be initialized in 3 ways:**
+1. datatype: Type of data that can be stored in this variable.
+2. variable_name: Name given to the variable.
+3. value: It is the initial value stored in the variable.
+
+**Types of variables in Java**
+
+1. **Local Variables**: A variable defined within a block or method or constructor. 
+These variables are created when the block is entered, or the function is called and destroyed after exiting from the block or when the call returns from the function.
+2. **Instance Variables**: non-static variables and are declared in a class outside of any method, constructor, or block. 
+Instance variables are declared in a class, these variables are created when an object of the class is created and destroyed when the object is destroyed
+3. **Static Variables**: Static variables are also known as class variables.
+These variables are declared similarly to instance variables. The difference is that static variables are declared using the static keyword within a class outside of any method, constructor, or block
+
+
+**Java Arithmetic Operations**(-, +, /, *, %)
+They work with numeric values, such as bytes, shorts, ints, longs, floats, and doubles. 
+
+**Data Structures** A programming language uses control statements to control the flow of execution of a program based on certain conditions.
+
+**Java’s Selection statements**: 
+1. if: if statement is the most simple decision-making statement. It is used to decide whether a certain statement or block of statements will be executed or not i.e if a certain condition is true then a block of statements is executed otherwise not.
+2. if-else: The if statement alone tells us that if a condition is true it will execute a block of statements and if the condition is false it won’t. But what if we want to do something else if the condition is false? Here comes the else statement. We can use the else statement with the if statement to execute a block of code when the condition is false.
+3. nested-if: A nested if is an if statement that is the target of another if or else. Nested if statements mean an if statement inside an if statement. Yes, java allows us to nest if statements within if statements. i.e, we can place an if statement inside another if statement. 
+4. if-else-if: versatile tool that can be used to control the flow of a program. It can be used to execute different code blocks based on multiple conditions, which can be helpful for things like grading tests, determining eligibility for discounts, or making other decisions.
+4. switch-case jump (break, continue, return): The switch statement is a multiway branch statement. It provides an easy way to dispatch execution to different parts of code based on the value of the expression.
+
+Switch expressions are like switch statements, but they are more convenient. They do not require break statements like switch statements do. Switch expressions are excellent for assignments, but they are not just limited to that. You can include more than just assignments in your cases
