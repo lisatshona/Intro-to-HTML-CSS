@@ -344,4 +344,18 @@ They work with numeric values, such as bytes, shorts, ints, longs, floats, and d
 4. if-else-if: versatile tool that can be used to control the flow of a program. It can be used to execute different code blocks based on multiple conditions, which can be helpful for things like grading tests, determining eligibility for discounts, or making other decisions.
 4. switch-case jump (break, continue, return): The switch statement is a multiway branch statement. It provides an easy way to dispatch execution to different parts of code based on the value of the expression.
 
-Switch expressions are like switch statements, but they are more convenient. They do not require break statements like switch statements do. Switch expressions are excellent for assignments, but they are not just limited to that. You can include more than just assignments in your cases
+Switch expressions are like switch statements, but they are more convenient. They do not require break statements like switch statements do. Switch expressions are excellent for assignments, but they are not just limited to that. You can include more than just assignments in your cases.
+
+**Repetition Structure**
+
+**Loops** structures that cause a block of code to repeat.
+
+**while loop**: A while loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition. The while loop can be thought of as a repeating if statement.While loop starts with the checking of Boolean condition. If it evaluated to true, then the loop body statements are executed otherwise first statement following the loop is executed **Entry control loop**. Its the best to use if the loop may or may not need to run at all
+**for loop**: for loop provides a concise way of writing the loop structure. Unlike a while loop, a for statement consumes the initialization, condition and increment/decrement in one line thereby providing a shorter, easy to debug structure of looping. Its a count-controlled loop
+**DO-WHILE** do while loop is similar to while loop with only difference that it checks for condition after executing the statements, and therefore is an example of **Exit Control Loop**. Do while loop starts with the execution of the statement(s). There is no checking of any condition for the first time. Its the best to use if the contents definitely need to be executed at least once
+After the execution of the statements, and update of the variable value, the condition is checked for true or false value. If it is evaluated to true, next iteration of loop starts.
+When the condition becomes false, the loop terminates which marks the end of its life cycle.
+It is important to note that the do-while loop will execute its statements atleast once before any condition is checked, and therefore is an example of exit control loop.
+**Nested loop** means a loop statement inside another loop statement.
+Sometimes, you must break free from a loop, no matter what is going on in there. You can do that with the **break statement**
+
