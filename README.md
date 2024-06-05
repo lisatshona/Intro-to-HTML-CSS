@@ -350,12 +350,15 @@ Switch expressions are like switch statements, but they are more convenient. The
 
 **Loops** structures that cause a block of code to repeat.
 
-**while loop**: A while loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition. The while loop can be thought of as a repeating if statement.While loop starts with the checking of Boolean condition. If it evaluated to true, then the loop body statements are executed otherwise first statement following the loop is executed **Entry control loop**. Its the best to use if the loop may or may not need to run at all
-**for loop**: for loop provides a concise way of writing the loop structure. Unlike a while loop, a for statement consumes the initialization, condition and increment/decrement in one line thereby providing a shorter, easy to debug structure of looping. Its a count-controlled loop
-**DO-WHILE** do while loop is similar to while loop with only difference that it checks for condition after executing the statements, and therefore is an example of **Exit Control Loop**. Do while loop starts with the execution of the statement(s). There is no checking of any condition for the first time. Its the best to use if the contents definitely need to be executed at least once
+1. **while loop**: A while loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition. The while loop can be thought of as a repeating if statement.While loop starts with the checking of Boolean condition. If it evaluated to true, then the loop body statements are executed otherwise first statement following the loop is executed **Entry control loop**. Its the best to use if the loop may or may not need to run at all.
+   
+2. **for loop**: for loop provides a concise way of writing the loop structure. Unlike a while loop, a for statement consumes the initialization, condition and increment/decrement in one line thereby providing a shorter, easy to debug structure of looping. Its a count-controlled loop.
+   
+3. **DO-WHILE** do while loop is similar to while loop with only difference that it checks for condition after executing the statements, and therefore is an example of **Exit Control Loop**. Do while loop starts with the execution of the statement(s). There is no checking of any condition for the first time. Its the best to use if the contents definitely need to be executed at least once
 After the execution of the statements, and update of the variable value, the condition is checked for true or false value. If it is evaluated to true, next iteration of loop starts.
 When the condition becomes false, the loop terminates which marks the end of its life cycle.
 It is important to note that the do-while loop will execute its statements atleast once before any condition is checked, and therefore is an example of exit control loop.
+
 **Nested loop** means a loop statement inside another loop statement.
 Sometimes, you must break free from a loop, no matter what is going on in there. You can do that with the **break statement**
 
