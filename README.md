@@ -316,8 +316,11 @@ In Java, **Variables** are the data containers that save the data values during 
 data_name can only be given to a memory location. It can be assigned values in two ways: 
 1. Variable Initialization
 2. Assigning value by taking input
+   
 In Java it is wise to selected descriptive names
+
 **Variables can be initialized in 3 ways:**
+
 1. datatype: Type of data that can be stored in this variable.
 2. variable_name: Name given to the variable.
 3. value: It is the initial value stored in the variable.
